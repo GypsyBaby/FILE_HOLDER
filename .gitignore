@@ -1,0 +1,22 @@
+venv/
+.venv/
+.vscode/
+.idea/
+__pycache__/
+*.pid
+*.bak
+*.dat
+*.dir
+*.service
+*.sql
+*.key
+logs/
+static/
+reports/
+.mypy_cache/
+.pytest_cache/
+.mypy.ini
+
+# Credentials
+*.env
+activate.bat
